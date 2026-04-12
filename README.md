@@ -17,7 +17,7 @@ It helps stakeholders understand:
 
 ## 🖼 Dashboard Preview
 
-![ikeadashboard.png](vetali.png)
+![image] (ikeadashboard.png)
 ---
 
 # 📈 Key Performance Indicators (KPIs)
