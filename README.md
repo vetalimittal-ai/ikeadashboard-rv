@@ -16,7 +16,6 @@ It helps stakeholders understand:
 ---
 
 ## 🖼 Dashboard Preview
-ikeadashboard.png
 
 ![image](ikeadashboard.png)
 
